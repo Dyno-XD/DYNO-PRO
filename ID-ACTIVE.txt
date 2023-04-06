@@ -1,3 +1,4 @@
 TeLeGrAm: @i4m_DYNO
 
 1|0|5|0|5|u|0|_|a|5|0|5  date: DYNO
+1|0|4|3|4|u|0|_|a|4|3|4  date: 1hr
