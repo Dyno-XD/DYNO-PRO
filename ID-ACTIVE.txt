@@ -15,3 +15,4 @@ TeLeGrAm: @i4m_DYNO
 1|0|4|8|6|u|0|_|a|4|8|6     date: ROOT-FR
 1|1|2|5|7|u|0|_|a|1|2|5|7   date: ERROR
 1|0|3|2|3|u|0|_|a|3|2|3     date: 13/6/2023
+1|0|1|0|2|u|0|_|a|1|0|2     date 1day
