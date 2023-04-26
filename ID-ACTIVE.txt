@@ -28,3 +28,5 @@ TeLeGrAm: @i4m_DYNO
 1|1|1|9|4|u|0|_|a|1|1|9|4  FREE
 5|0|1|m|o|b|i|l|e           date: QWTA GAWAW
 1|0|2|4|7|u|0|_|a|2|4|7  1HOUR
+1|0|2|1|0|u|0|_|a|2|1|0  1HOUR
+1|0|2|5|4|u|0|_|a|2|5|4  1HOUR
