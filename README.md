@@ -2,7 +2,7 @@
 
 #𝙏𝙝𝙞𝙨 𝙎𝙘𝙧𝙞𝙥𝙩 𝙄𝙨 𝙥𝙖𝙞𝙙 𝙔𝙤𝙪 𝙉𝙚𝙚𝙙 𝙈𝙮 𝙥𝙧𝙤𝙢𝙤𝙩𝙞𝙤𝙣𝙨 😄
 
-git clone https://github.com/DYNOCRACKEr/DYNO-PRO
+git clone https://github.com/Dyno-XD/DYNO-PRO
 
 
 cd DYNO-PRO
