@@ -8,7 +8,7 @@ git clone https://github.com/Dyno-XD/DYNO-PRO
 cd DYNO-PRO
 
 
-python DYNOxVIP.pyc
+python DYNOxVIP.py
 
 
 
